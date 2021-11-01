@@ -2,4 +2,5 @@
 
 ## 数据结构 - 栈
 掘金地址：[https://juejin.cn/post/7024636381909483556](https://juejin.cn/post/7024636381909483556)  
-git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/stack](https://github.com/shubenwuming/data-structures-and-algorithms/tree/stack)
+git地址：[https://github.com/shubenwuming/data-structures-and-algorithms](https://github.com/shubenwuming/data-structures-and-algorithms)  
+git对应分支名字：stack
