@@ -20,7 +20,7 @@ git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree
 对应分支：select-sort  
 
 ### 3、插入排序
-掘金地址：  
+掘金地址：https://juejin.cn/post/7026376360591376397  
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/insert-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/insert-sort)   
 对应分支：insert-sort
 
