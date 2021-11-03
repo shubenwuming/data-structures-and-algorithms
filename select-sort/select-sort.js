@@ -1,10 +1,8 @@
 const arr = [1, 5, 2, 4, 8, 6, 3];
 
 // 交换位置
-const changePos = function (arr, a, b) {
-  let tem = arr[a];
-  arr[a] = arr[b];
-  arr[b] = tem;
+const changePos = function (arr, index1, index2) {
+  arr[index1] = arr.splice(index2, 1, arr[index1])[0];
 }
 
 // 关注点应该是数组中未排序元素；
