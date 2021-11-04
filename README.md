@@ -20,9 +20,14 @@ git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree
 对应分支：select-sort  
 
 ### 3、插入排序
-掘金地址：https://juejin.cn/post/7026376360591376397  
+掘金地址：[https://juejin.cn/post/7026376360591376397](https://juejin.cn/post/7026376360591376397)   
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/insert-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/insert-sort)   
 对应分支：insert-sort
+
+### 4、希尔排序
+掘金地址：[https://juejin.cn/post/7026772460569624584](https://juejin.cn/post/7026772460569624584)    
+git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/shell-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/shell-sort)  
+对应分支：shell
 
 
 
