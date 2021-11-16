@@ -27,7 +27,11 @@ git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree
 ### 4、希尔排序
 掘金地址：[https://juejin.cn/post/7026772460569624584](https://juejin.cn/post/7026772460569624584)    
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/shell-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/shell-sort)  
-对应分支：shell
+对应分支：shell-sort
 
+### 5、快速排序
+掘金地址：[https://juejin.cn/post/7031082964763033608](https://juejin.cn/post/7031082964763033608)      
+git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/quick-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/quick-sort)    
+对应分支：quick-sort  
 
 
