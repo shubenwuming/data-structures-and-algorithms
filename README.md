@@ -34,4 +34,9 @@ git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree
 git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/quick-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/quick-sort)    
 对应分支：quick-sort  
 
+### 6、计数排序
+掘金地址：[https://juejin.cn/post/7031572025969737758](https://juejin.cn/post/7031572025969737758)      
+git地址：[https://github.com/shubenwuming/data-structures-and-algorithms/tree/count-sort](https://github.com/shubenwuming/data-structures-and-algorithms/tree/count-sort)    
+对应分支：count-sort  
+
 
